@@ -70,7 +70,7 @@ AI를 활용한 창작 활동을 통해 개인의 정체성을 시각적으로 �
 
 #### 1. 캐릭터 생성
 - 영상을 참고하여 AI로 자신을 대표하는 픽셀아트 캐릭터를 만듭니다.
-  ![참고 영상](https://www.youtube.com/shorts/Gi1XIsLCBU8?feature=share)
+  https://www.youtube.com/shorts/Gi1XIsLCBU8?feature=share
 
 #### 2. 프롬프트 사용
 **인물 이미지용 프롬프트:**
@@ -85,7 +85,7 @@ Remove the background of the attached image to transparency and render the subje
 
 #### 3. 대안 도구 활용
 - 자신이 사용하는 AI에 이미지 생성 기능이 없거나, 이미지 생성기능이 유료라면 아래의 사이트에서 시도해 보세요!
-  ![무료사이트](https://fluxai.art/ko/features/photo-to-pixel-art)
+  https://fluxai.art/ko/features/photo-to-pixel-art
 
 #### 4. 최종 작업
 - 부스트캠프 zoom 배경사진 위에 팀원 모두의 캐릭터를 붙여주세요.
