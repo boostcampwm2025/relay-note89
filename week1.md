@@ -70,7 +70,7 @@ AI를 활용한 창작 활동을 통해 개인의 정체성을 시각적으로 �
 
 #### 1. 캐릭터 생성
 - 영상을 참고하여 AI로 자신을 대표하는 픽셀아트 캐릭터를 만듭니다.
-  https://www.youtube.com/shorts/Gi1XIsLCBU8?feature=share
+  ![참고 영상](https://www.youtube.com/shorts/Gi1XIsLCBU8?feature=share)
 
 #### 2. 프롬프트 사용
 **인물 이미지용 프롬프트:**
@@ -85,7 +85,7 @@ Remove the background of the attached image to transparency and render the subje
 
 #### 3. 대안 도구 활용
 - 자신이 사용하는 AI에 이미지 생성 기능이 없거나, 이미지 생성기능이 유료라면 아래의 사이트에서 시도해 보세요!
-  https://fluxai.art/ko/features/photo-to-pixel-art
+  ![무료사이트](https://fluxai.art/ko/features/photo-to-pixel-art)
 
 #### 4. 최종 작업
 - 부스트캠프 zoom 배경사진 위에 팀원 모두의 캐릭터를 붙여주세요.
@@ -94,12 +94,12 @@ Remove the background of the attached image to transparency and render the subje
 
 ---
 
-## 퀘스트 3. 루틴화된 하루에 낯선 행동 적용해보기
+## 퀘스트 3. 루틴화된 하루에 낯선 행동 적용해보기 🙉
 
 ### 배경/이유
 매일 눈을 뜨고 감을 때까지 미션이 진행된다. 미션을 진행하다보면 스스로에게 편하고 익숙한 환경에 적응되어 점차 시간이 지날수록 무기력해지거나 집중력이 흩어지게 된다.
 
-신경가소성(neuroplasticity)이란 성장과 재조직을 통해 뇌가 스스로 신경 회로를 바꾸는 능력이다. 우리의 뇌는 매일 반복되는 생활 패턴 속에서 점점 익숙해지며 편안함을 느끼지만, 이러한 루틴화된 생활은 역설적으로 뇌의 활성도를 떨어뜨리고 무기력감을 초래한다.
+[신경가소성(neuroplasticity)](https://ko.wikipedia.org/wiki/%EC%8B%A0%EA%B2%BD%EA%B0%80%EC%86%8C%EC%84%B1)이란 성장과 재조직을 통해 뇌가 스스로 신경 회로를 바꾸는 능력이다. 우리의 뇌는 매일 반복되는 생활 패턴 속에서 점점 익숙해지며 편안함을 느끼지만, 이러한 루틴화된 생활은 역설적으로 뇌의 활성도를 떨어뜨리고 무기력감을 초래한다.
 
 하지만 일상 생활 속에서 변화시킬 수 있는 낯선 행동 하나를 통해서 뇌의 자극을 유도할 수 있고, 이를 통해 무기력한 뇌를 깨우고 조금 더 몰입할 수 있는 환경을 만들어볼 수 있다.
 
@@ -112,14 +112,14 @@ Remove the background of the attached image to transparency and render the subje
 
 ### 진행 방법
 
-#### 1. 생활 패턴 분석
+#### 1️⃣ 생활 패턴 분석
 하루의 생활패턴을 고민해보며 익숙해진 루틴화된 일상 생활 속 공통점들을 찾아본다.
 - 하루 눈 뜰 때부터 감을 때까지의 시간 별 행동들을 나열해도 좋다.
 
-#### 2. AI를 통한 변화 제안
+#### 2️⃣ AI를 통한 변화 제안
 추출한 패턴들을 AI에게 전달하여 그 중에서 변화시킬 수 있는 작은 행동을 추천받고 실천할 수 있는 것을 하나 선택한다.
 
-#### 3. 실천 및 회고
+#### 3️⃣ 실천 및 회고
 실제 생활 속에서 낯선 행동을 직접 실천하고 회고를 작성해보거나 AI를 통해 만화, 이미지 등 자유롭게 표현해본다.
 
 ---
