@@ -3,14 +3,17 @@
 ## 퀘스트 1. AI와 대화할 때 사용할 프롬프트 만드는 나만의 규칙 만들기
 
 ### 배경/이유
+
 AI에게 적합한 **질문**을 하는 방식을 익혀보자. 프롬프트 설계 능력, 비판적 사고, 자기주도적 학습 역량 강화를 목표로 한다.
 
 ### 목적
+
 - AI와의 효과적인 소통 능력 개발
 - 프롬프트 엔지니어링 기술 습득
 - 비판적 사고력 향상
 
 ### 달성 기준
+
 - 프롬프트 엔지니어링 자료 학습 완료
 - AI를 활용한 자료 요약 작성
 - 개인만의 프롬프트 제작법 수립
@@ -19,23 +22,28 @@ AI에게 적합한 **질문**을 하는 방식을 익혀보자. 프롬프트 설
 ### 진행 방법
 
 #### 1. 준비 단계
+
 - 아티클을 읽는다:
   - 프롬프트 엔지니어링 관련 아티클 또는 참고 자료, LLM과 효과적으로 소통하는 법에 대한 자료
     - https://www.digitalocean.com/resources/articles/prompt-engineering-best-practices
 
 #### 2. 자료 학습 후 요약
+
 - AI를 활용해 읽은 자료를 **요약**
 - 예: "OO 아티클 요약 + 핵심 기법 3~5가지 정리"
 
 #### 3. 나만의 프롬프트 제작법 수립
+
 - AI 요약 내용을 바탕으로
   - **나만의 질문 잘하는 법 정리**
 
 #### 4. 부스트캠프 챌린지 과제 수행 중 적용
+
 - **나만의 가이드**에 따라 AI에게 질문
 - 실제 AI 답변을 받아 적용해 봄
 
 #### 5. 비판적 사고 훈련
+
 - AI 답변마다 **비판점 3가지 작성**
   - 예시)
     - 어디서 이런 답변을 도출했나?
@@ -45,6 +53,7 @@ AI에게 적합한 **질문**을 하는 방식을 익혀보자. 프롬프트 설
 - 각 비판점마다 **꼬리 질문해보기**
 
 #### 6. 체험 결과 표현
+
 - 실제 느낀 점을 AI로 표현
   - 예: 만화, 회고글, 카드뉴스 등 자유 형식
 
@@ -53,14 +62,17 @@ AI에게 적합한 **질문**을 하는 방식을 익혀보자. 프롬프트 설
 ## 퀘스트 2. 자신을 대표하는 픽셀아트 캐릭터 만들기
 
 ### 배경/이유
+
 AI를 활용한 창작 활동을 통해 개인의 정체성을 시각적으로 표현하고, 팀원들과의 유대감을 형성한다.
 
 ### 목적
+
 - AI 이미지 생성 도구 활용 능력 습득
 - 개인 정체성의 시각적 표현
 - 부스트캠프 공동체 의식 형성
 
 ### 달성 기준
+
 - 개인을 대표하는 픽셀아트 캐릭터 생성 완료
 - 부스트캠프 zoom 배경에 캐릭터 합성
 - 캐릭터 선택 이유에 대한 설명 작성
@@ -69,25 +81,31 @@ AI를 활용한 창작 활동을 통해 개인의 정체성을 시각적으로 �
 ### 진행 방법
 
 #### 1. 캐릭터 생성
+
 - 영상을 참고하여 AI로 자신을 대표하는 픽셀아트 캐릭터를 만듭니다.
   https://www.youtube.com/shorts/Gi1XIsLCBU8?feature=share
 
 #### 2. 프롬프트 사용
+
 **인물 이미지용 프롬프트:**
+
 ```
 Emulate the pixel art style of Everskies—replicating its proportions, expressions, costumes and hairstyles—and produce a pixel portrait of the attached subject, mirroring their hairstyle, clothing and accessories, matching the original framing with the full head intact (≥1 px top margin), render clothing opaquely (clothing and face must not be transparent), treat white as opaque (e.g. the sclera must be white, not transparent), faithfully capture the subject's facial features, export as transparent PNG, use a strict 1:1 pixel grid with crisp 1 px outlines, disable auto‑cropping, and generate immediately without any follow‑up questions.
 ```
 
 **인물이 아닌 이미지용 프롬프트:**
+
 ```
 Remove the background of the attached image to transparency and render the subject—whether person, animal, or object—exactly as it appears in simple pixel art using a strict 1:1 pixel grid with crisp 1 px outlines, faithfully capturing its original shape and colors without anthropomorphizing, export as a transparent PNG, disable auto‑cropping, and generate immediately without any follow‑up questions.
 ```
 
 #### 3. 대안 도구 활용
+
 - 자신이 사용하는 AI에 이미지 생성 기능이 없거나, 이미지 생성기능이 유료라면 아래의 사이트에서 시도해 보세요!
   https://fluxai.art/ko/features/photo-to-pixel-art
 
 #### 4. 최종 작업
+
 - 부스트캠프 zoom 배경사진 위에 팀원 모두의 캐릭터를 붙여주세요.
 - 각자 왜 이 사진/이미지를 골랐는지 간단한 설명을 작성합니다.
 - 최대한 많은 부스트캠프 10기 캠퍼분들의 캐릭터를 모으는 것이 목표입니다. Slack에 많이 공유해주세요 :)
@@ -97,6 +115,7 @@ Remove the background of the attached image to transparency and render the subje
 ## 퀘스트 3. 루틴화된 하루에 낯선 행동 적용해보기 🙉
 
 ### 배경/이유
+
 매일 눈을 뜨고 감을 때까지 미션이 진행된다. 미션을 진행하다보면 스스로에게 편하고 익숙한 환경에 적응되어 점차 시간이 지날수록 무기력해지거나 집중력이 흩어지게 된다.
 
 [신경가소성(neuroplasticity)](https://ko.wikipedia.org/wiki/%EC%8B%A0%EA%B2%BD%EA%B0%80%EC%86%8C%EC%84%B1)이란 성장과 재조직을 통해 뇌가 스스로 신경 회로를 바꾸는 능력이다. 우리의 뇌는 매일 반복되는 생활 패턴 속에서 점점 익숙해지며 편안함을 느끼지만, 이러한 루틴화된 생활은 역설적으로 뇌의 활성도를 떨어뜨리고 무기력감을 초래한다.
@@ -104,22 +123,28 @@ Remove the background of the attached image to transparency and render the subje
 하지만 일상 생활 속에서 변화시킬 수 있는 낯선 행동 하나를 통해서 뇌의 자극을 유도할 수 있고, 이를 통해 무기력한 뇌를 깨우고 조금 더 몰입할 수 있는 환경을 만들어볼 수 있다.
 
 ### 목적
+
 - 익숙하게만 느껴졌던 나의 하루 생활 패턴을 스스로 고민해보면서 되돌아볼 수 있다.
 - 낯선 행동을 추가함으로써 뇌를 자극시켜 새로운 스트레스를 통해 몰입적인 환경을 제공받을 수 있다.
 
 ### 달성 기준
+
 하루 눈 뜨고 눈을 감을 때까지 진행되는 미션 속에서 나의 하루 생활 패턴이나 어떠한 자세나 습관으로 미션을 진행하고 있었는지 고민해보고 AI를 통해 익숙해진 환경에 변화를 줄 수 있는 낯선 행동 하나를 골라 적용해본다.
 
 ### 진행 방법
 
 #### 1️⃣ 생활 패턴 분석
+
 하루의 생활패턴을 고민해보며 익숙해진 루틴화된 일상 생활 속 공통점들을 찾아본다.
+
 - 하루 눈 뜰 때부터 감을 때까지의 시간 별 행동들을 나열해도 좋다.
 
 #### 2️⃣ AI를 통한 변화 제안
+
 추출한 패턴들을 AI에게 전달하여 그 중에서 변화시킬 수 있는 작은 행동을 추천받고 실천할 수 있는 것을 하나 선택한다.
 
 #### 3️⃣ 실천 및 회고
+
 실제 생활 속에서 낯선 행동을 직접 실천하고 회고를 작성해보거나 AI를 통해 만화, 이미지 등 자유롭게 표현해본다.
 
 ---
@@ -127,14 +152,17 @@ Remove the background of the attached image to transparency and render the subje
 ## 퀘스트 4. AI에게 챌린지 감상을 시 혹은 랩으로 만들어달라고 부탁하기
 
 ### 배경/이유
+
 챌린지를 진행하며 느끼는 감정은 누구나 비슷하게 겪을 수 있습니다. 나만 힘든 건 아닐까, 나만 삽질한 건 아닐까? 아마 그러진 않을 겁니다. 모두가 힘들었고 공통된 감상을 가지고 있을 꺼라 생각합니다. 그런 생각이 들 때, 이 생각을 AI에게 전달하여 시나 랩으로 표현함으로써 퀘스트 참여자들 간의 공감과 연결의 계기를 만들 수 있습니다.
 
 ### 목적
+
 - 커뮤니티 안에서 공감대 형성
 - 친밀감 향상
 - 창작을 통한 감정 표현 및 정화
 
 ### 달성 기준
+
 - **주 1회 이상** 수행
 - 이번 주에 수행한 챌린지 중 하나를 선택
 - **간단한 감상/후기**를 작성하고 AI에게 시 혹은 랩으로 바꿔달라고 요청
@@ -143,20 +171,24 @@ Remove the background of the attached image to transparency and render the subje
 ### 진행 방법
 
 #### 1. 감상 작성
+
 - 원하는 AI 모델에게 자신의 미션 감상에 대해 간략하게 전달합니다.
 
 #### 2. 창작 요청
+
 - 이에 대한 내용으로 시 혹은 랩을 만들어 달라 부탁합니다.
 
 #### 3. 공유
+
 - 완성된 작품을 커뮤니티에 공유합니다.
 
 ### 예시
 
-**입력:** 
+**입력:**
 챌린지를 하면서 학습 시간에만 12시간을 사용하고 잠도 제대로 못 잤어 학습을 해도 해도 끝이 없고 설계 작성하기도 어려웠어 그래도 포기하지 않고 계속 작성했고 결국 구현까지 성공했어
 
 **출력:**
+
 ```
 하루가 밤을 삼키고
 잠은 내게 등을 돌렸네
@@ -174,3 +206,12 @@ Remove the background of the attached image to transparency and render the subje
 ```
 
 나만 힘든 건 아닐까, 나만 삽질한 건 아닐까? 그런 생각이 들 때, 이 생각을 AI에게 전달하여 시로 표현함으로써 퀘스트 참여자들에게 공감과 연결의 계기를 만들 수 있습니다.
+
+---
+
+## 수행할 퀘스트를 정한 결과와 이유
+
+J224 이화정
+
+- 퀘스트 : AI에게 챌린지 감상을 시 혹은 랩으로 만들어달라고 부탁하기
+- 선정 이유 : 단순히 챌린지 하면서 후기나 느낀점을 랩을 만든다는 발상이 재미있어서 선정하게 되었다.
